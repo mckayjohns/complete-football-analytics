@@ -1,0 +1,6 @@
+jupyter
+matplotlib==3.8.2
+seaborn==0.13.2
+pandas==2.2.0
+mplsoccer==1.2.2
+statsbombpy==1.12.0
