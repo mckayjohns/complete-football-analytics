@@ -11,3 +11,6 @@ highlight-text==0.2
 scikit-learn
 requests~=2.31.0
 cloudscraper>=1.2.71
+asyncio
+playwright
+beautifulsoup4
